@@ -1,0 +1,36 @@
+[submodule "watashi/AlgoLib"]
+	path = watashi/AlgoLib
+	url = https://github.com/watashi/AlgoLib.git
+[submodule "ngthanhtrung23/ACM_Notebook_new"]
+	path = ngthanhtrung23/ACM_Notebook_new
+	url = https://github.com/ngthanhtrung23/ACM_Notebook_new.git
+[submodule "spaghetti-source/algorithm"]
+	path = spaghetti-source/algorithm
+	url = https://github.com/spaghetti-source/algorithm.git
+[submodule "kth-competitive-programming/kactl"]
+	path = kth-competitive-programming/kactl
+	url = https://github.com/kth-competitive-programming/kactl.git
+[submodule "foreverbell/acm-icpc-cheat-sheet"]
+	path = foreverbell/acm-icpc-cheat-sheet
+	url = https://github.com/foreverbell/acm-icpc-cheat-sheet.git
+[submodule "bobogei81123/bcw_codebook.git"]
+	path = bobogei81123/bcw_codebook.git
+	url = https://github.com/bobogei81123/bcw_codebook.git
+[submodule "jaehyunp/stanfordacm"]
+	path = jaehyunp/stanfordacm
+	url = https://github.com/jaehyunp/stanfordacm.git
+[submodule "kth-competitive-programming/tinykactl"]
+	path = kth-competitive-programming/tinykactl
+	url = https://github.com/kth-competitive-programming/tinykactl.git
+[submodule "lnishan/awesome-competitive-programming"]
+	path = lnishan/awesome-competitive-programming
+	url = https://github.com/lnishan/awesome-competitive-programming.git
+[submodule "sukhoeing/aoapc-bac2nd.git"]
+	path = sukhoeing/aoapc-bac2nd
+	url = https://github.com/sukhoeing/aoapc-bac2nd.git
+[submodule "sukhoeing/aoapc-book.git"]
+	path = sukhoeing/aoapc-book
+	url = https://github.com/sukhoeing/aoapc-book.git
+[submodule "sukhoeing/aoapc-bac2nd-keys"]
+	path = sukhoeing/aoapc-bac2nd-keys
+	url = https://github.com/sukhoeing/aoapc-bac2nd-keys.git
